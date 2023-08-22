@@ -1,0 +1,6 @@
+frmShortEssayAnswer = 110, 145, 710, 502, C, 88, 116, 688, 473, C
+frmZoom = 0, 0, 0, 0, C, 44, 58, 644, 415, C
+frmFillBlanks = 88, 116, 1011, 473, C, 66, 87, 989, 444, C
+frmMain = 0, 0, 0, 0, C, 88, 116, 688, 473, C
+frmMCQs = 44, 58, 1011, 317, C, 0, 0, 600, 357, C
+modCommonDialog = 22, 29, 989, 288, C
